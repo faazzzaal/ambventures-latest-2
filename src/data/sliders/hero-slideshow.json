@@ -1,0 +1,36 @@
+{
+  "title": {
+    "first": "AMB Ventures <br />Tech Services"
+  },
+  "subtitle": { "first": "The Next", "second": "Gen" },
+  "button": { "label": "Let’s Talk", "link": "/contact" },
+  "description": "We build brands and accelerate startups in MENA",
+  "slides": [
+    {
+      "image": "img/photo/1.jpg"
+    },
+    {
+      "image": "img/photo/2.jpg"
+    },
+    {
+      "image": "img/photo/3.jpg"
+    }
+  ],
+  "items": [
+    {
+      "label": "Dedicated Team",
+      "text": "Empower your tech projects with our dedicated team of skilled professionals, committed to delivering innovative solutions. Harness the expertise you need for success, tailored exclusively for your unique technology challenges.",
+      "width": "450px"
+    },
+    {
+      "label": "Developers",
+      "text": "Meet our passionate developers who transform ideas into cutting-edge solutions, fueled by creativity and expertise.",
+      "width": "300px"
+    },
+    {
+      "label": "Designers",
+      "text": "Elevate user experiences with our talented UI/UX designers, crafting seamless interfaces that captivate and resonate.",
+      "width": "300px"
+    }
+  ]
+}

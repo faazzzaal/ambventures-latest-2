@@ -1,0 +1,10 @@
+{
+    "title": { "first": "Business", "second": "Success", "third": "With <br />Technology" },
+    "subtitle": "Our Skill",
+    "description": "Empowered by a spectrum of cutting-edge skills, Rahal Tech pioneers in software development, cloud solutions, and IT architecture – ensuring unparalleled expertise for your digital journey.",
+    "items": [],
+    "button": {
+        "label": "More",
+        "link": "/about"
+    }
+}
