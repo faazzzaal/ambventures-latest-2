@@ -38,14 +38,20 @@ const PartnersSection = () => {
       {
         breakpoint: 767,
         settings: {
-          slidesToShow: 2,
+          slidesToShow: 1,
+        },
+      },
+      {
+        breakpoint: 480,
+        settings: {
+          slidesToShow: 1,
         },
       },
     ],
   };
   return (
     <div className="mil-partners mil-p-90-60">
-      <div className="container">
+      <div className="container px-0 px-md-5">
         <Slider {...settings}>
           {Content.items.map((item, index) => (
             <div key={`partners-i-${index}`} className="mil-partners-frame">
