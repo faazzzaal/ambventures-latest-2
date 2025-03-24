@@ -10,7 +10,7 @@ const DefaultFooter = () => {
                 src="/img/logo/logo-light.png"
                 alt="logo"
                 className="mil-logo "
-                style={{ width: 300, marginLeft: "-50px" }}
+                // style={{ width: 300, marginLeft: "-50px" }}
               />
               <p className="mil-light-soft mil-mb-30">
                 Elevate your enterprise with Rahal Tech – where innovation meets
