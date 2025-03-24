@@ -41,7 +41,7 @@ const Project = () => {
     ],
     conclusion:
       "In summary, Wayrem Ai has significantly transformed logistics and e-commerce operations, proving to be the driving force behind increased efficiency and customer satisfaction. Its real-time optimization, advanced forecasting, and security features showcase the transformative power of technology in shaping the future of the logistics and e-commerce sectors.",
-    client: "Rahal - Internal Project",
+    client: "Amb ventures - Internal Project",
     service: "SaaS System Development",
     industry: "Logistics, ERP, Supple Chain, E commerce",
     stack: "React, ReactNative, MongoDB, Node.js",

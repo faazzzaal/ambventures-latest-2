@@ -207,7 +207,8 @@ const Contact = () => {
                   <span className="mil-accent">+966-</span>556620046
                 </h6>
                 <h6>
-                  <span className="mil-accent">ask@rahal</span>.mynaghi.com
+                  <span className="mil-accent">ask@Amb ventures</span>
+                  .mynaghi.com
                 </h6>
               </div>
             </div>

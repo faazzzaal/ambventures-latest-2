@@ -45,7 +45,7 @@ const Team1 = (posts) => {
               <h3 className="mil-mb-30">Biography</h3>
               <p className="mil-mb-60">
                 {
-                  "Meet Abdulmohsen Bakhashwain, the empathetic CEO and Managing Director of Rahal Tech IT Solutions, dedicated to leading Saudi Arabia's premier food service company with a vision grounded in compassion."
+                  "Meet Abdulmohsen Bakhashwain, the empathetic CEO and Managing Director of Amb ventures IT Solutions, dedicated to leading Saudi Arabia's premier food service company with a vision grounded in compassion."
                 }
               </p>
               <div className="mil-divider mil-mb-60" />
@@ -66,14 +66,14 @@ const Team1 = (posts) => {
               <div className="mil-mb-60">
                 <div>
                   <div>
-                    The visionary CEO and Founder of Rahal Venture Builders,
-                    brings over a decade of experience in the fast-moving
-                    consumer goods industry. His leadership philosophy centers
-                    around aligning business interests with compassion, societal
-                    benefits, and the broader vision of his country.
-                    Abdulmohsen's journey is marked by successfully incubating
-                    and accelerating brands, providing a one-stop solution for a
-                    diverse range of services.
+                    The visionary CEO and Founder of Amb ventures Venture
+                    Builders, brings over a decade of experience in the
+                    fast-moving consumer goods industry. His leadership
+                    philosophy centers around aligning business interests with
+                    compassion, societal benefits, and the broader vision of his
+                    country. Abdulmohsen's journey is marked by successfully
+                    incubating and accelerating brands, providing a one-stop
+                    solution for a diverse range of services.
                   </div>
                   <br />
                   <div>
@@ -82,7 +82,7 @@ const Team1 = (posts) => {
                     introducing innovative solutions like Cul.in, a
                     revolutionary cloud kitchen challenging traditional models.
                     His commitment to sustainability and community growth is
-                    evident in Rahal's core slogan, "Serving Happiness."
+                    evident in Amb ventures's core slogan, "Serving Happiness."
                     Abdulmohsen's strategic approach involves seamlessly
                     integrating technology, innovation, and industry expertise
                     to create effective food value chain solutions.
@@ -90,13 +90,13 @@ const Team1 = (posts) => {
                   <br />
                   <div>
                     Beyond business, Abdulmohsen is a dedicated philanthropist,
-                    exemplified by Rahal Venture Builder's initiatives like
-                    Cul.in, aimed at reshaping the restaurant sector and giving
-                    back to the community. His skills span various domains, from
-                    marketing and supply chain management to operations
-                    optimization and strategic leadership, making Abdulmohsen a
-                    dynamic force in the ever-evolving landscape of the food and
-                    beverage industry.
+                    exemplified by Amb ventures Venture Builder's initiatives
+                    like Cul.in, aimed at reshaping the restaurant sector and
+                    giving back to the community. His skills span various
+                    domains, from marketing and supply chain management to
+                    operations optimization and strategic leadership, making
+                    Abdulmohsen a dynamic force in the ever-evolving landscape
+                    of the food and beverage industry.
                   </div>
                   <br />
                 </div>

@@ -115,10 +115,10 @@ const Blog = () => {
             </div>
             <div className="col-lg-4 col-xl-3 mil-mb-120">
               <div className="mil-mb-60">
-                <h5 className="mil-list-title mil-mb-30">About Rahal</h5>
+                <h5 className="mil-list-title mil-mb-30">About Amb ventures</h5>
                 <p className="mil-mb-30">
                   Empowering Innovation, Driving Digital Excellence: Explore the
-                  World of Rahal Tech on Our Blog.
+                  World of Amb ventures on Our Blog.
                 </p>
                 <Link href="team-1" className="mil-post-sm mil-mb-15">
                   <div className="mil-cover-frame">
@@ -246,7 +246,7 @@ const Blog = () => {
               </div>
               <div className="mil-divider mil-mb-60" />
               <h5 className="mil-list-title mil-mb-30">
-                Connect with Rahal Tech
+                Connect with Amb ventures
               </h5>
               <p className="mil-mb-30">
                 Your Gateway to Tailored IT Solutions and Unparalleled Technical

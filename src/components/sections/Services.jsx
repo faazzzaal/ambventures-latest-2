@@ -11,7 +11,7 @@ const ServicesSection = () => {
         </h2>
         <div className="row">
           <div className="col-lg-6 col-xl-6">
-            <h4 className="mil-mb-60 mil-mt-30">{Content.column1.heading}</h4>
+            <h4 className="  mil-mt-20">{Content.column1.heading}</h4>
             <div className="mil-divider mil-divider-left" />
             {Content.column1.items.map((item, key) => (
               <div key={`services-1-i-${key}`}>
@@ -39,7 +39,7 @@ const ServicesSection = () => {
             ))}
           </div>
           <div className="col-lg-6 col-xl-6">
-            <h4 className="mil-mb-60 mil-mt-30" style={{ opacity: 0 }}>
+            <h4 className="  mil-mt-20" style={{ opacity: 0 }}>
               {Content.column2.heading}
             </h4>
             <div className="mil-divider mil-divider-left" />

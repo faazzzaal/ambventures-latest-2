@@ -43,7 +43,7 @@ const Project = () => {
       "Streamlined Supply Chain Processes",
     ],
     conclusion: "",
-    client: "Rahal - Internal Project",
+    client: "Amb ventures - Internal Project",
     service: "SaaS System Development",
     industry: "F&B, Retail, ERP",
     stack: "React, ReactNative, MongoDB, Node.js",

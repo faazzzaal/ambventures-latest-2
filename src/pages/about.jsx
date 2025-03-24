@@ -56,7 +56,7 @@ const About = () => {
                 <br /> Digital Era.
               </h2>
               <p className="mil-mb-50">
-                In a rapidly evolving digital landscape, Rahal Tech stands as
+                In a rapidly evolving digital landscape, Amb ventures stands as
                 your strategic partner, specializing in translating your ideas
                 and business objectives into powerful, tech-driven solutions.
                 Harnessing innovation and expertise, we propel your journey to
@@ -250,7 +250,7 @@ const About = () => {
               </div>
               <div className="col-xl-6">
                 <p className="mil-box-text mil-mb-30">
-                  Rahal Tech brings unparalleled expertise to the table,
+                  Amb ventures brings unparalleled expertise to the table,
                   ensuring a competitive edge. Our seasoned professionals
                   deliver precision in IT solutions, maximizing success for your
                   business.
@@ -271,8 +271,8 @@ const About = () => {
               </div>
               <div className="col-xl-6">
                 <p className="mil-box-text mil-mb-30">
-                  Elevate your projects with Rahal Tech's commitment to quality
-                  management. Our stringent standards ensure excellence,
+                  Elevate your projects with Amb ventures's commitment to
+                  quality management. Our stringent standards ensure excellence,
                   enhancing your digital presence and leaving a lasting
                   impression.
                 </p>
@@ -292,9 +292,10 @@ const About = () => {
               </div>
               <div className="col-xl-6">
                 <p className="mil-box-text mil-mb-30">
-                  Experience adaptability with Rahal Tech's utmost flexibility.
-                  Our tailored solutions cater to evolving requirements,
-                  ensuring success in the dynamic digital landscape.
+                  Experience adaptability with Amb ventures's utmost
+                  flexibility. Our tailored solutions cater to evolving
+                  requirements, ensuring success in the dynamic digital
+                  landscape.
                 </p>
               </div>
             </div>
@@ -312,7 +313,7 @@ const About = () => {
               </div>
               <div className="col-xl-6">
                 <p className="mil-box-text mil-mb-30">
-                  Stay ahead with Rahal Tech's agile approach. Our swift
+                  Stay ahead with Amb ventures's agile approach. Our swift
                   response to industry shifts and proactive solutions propel
                   your business forward in the fast-paced technological
                   environment.
@@ -333,7 +334,7 @@ const About = () => {
               </div>
               <div className="col-xl-6">
                 <p className="mil-box-text mil-mb-30">
-                  Fuel growth with Rahal Tech's commitment to innovation. From
+                  Fuel growth with Amb ventures's commitment to innovation. From
                   cutting-edge technologies to forward-thinking strategies, we
                   infuse creativity into every solution, driving your business
                   towards unparalleled success.
@@ -364,7 +365,7 @@ const About = () => {
                 <div className="mil-box-text">
                   <h4 className="mil-mb-30">We Are</h4>
                   <p className="mil-box-text">
-                    At Rahal Tech, 'We Are' signifies unity, where every team
+                    At Amb ventures, 'We Are' signifies unity, where every team
                     member contributes to a collective force driving success and
                     innovation.
                   </p>

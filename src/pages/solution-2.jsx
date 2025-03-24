@@ -212,7 +212,7 @@ const Solution2 = () => {
                 <div className="mil-box-text">
                   <h4 className="mil-mb-30">We Are</h4>
                   <p className="mil-box-text">
-                    At Rahal Tech, 'We Are' signifies unity, where every team
+                    At Amb ventures, 'We Are' signifies unity, where every team
                     member contributes to a collective force driving success and
                     innovation.
                   </p>

@@ -42,7 +42,7 @@ const Project = () => {
     ],
     conclusion:
       "In conclusion, SCMS Ai has not only revolutionized school catering management but has also become an integral part of fostering healthy student well-being. With streamlined processes, enhanced efficiency, and improved transparency, it stands as a testament to the positive impact of innovative technology in educational environments.",
-    client: "Rahal - Internal Project",
+    client: "Amb ventures - Internal Project",
     service: "SaaS System Development",
     industry: "School Catering Management System",
     stack: "Angular, Node.js, Ionic, MongoDB",

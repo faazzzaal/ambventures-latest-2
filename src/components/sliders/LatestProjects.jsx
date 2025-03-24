@@ -46,7 +46,7 @@ const LatestProjects = () => {
                       <img
                         src={item.img}
                         alt={item.title}
-                        style={{ objectFit: "contain", padding: "100px" }}
+                        style={{ objectFit: "contain", padding: "50px" }}
                       />
                     </div>
                     <div className="mil-description">

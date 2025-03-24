@@ -76,7 +76,7 @@ const Solution1 = () => {
             </span>
             <h2>
               Benefits of managed IT services <br /> provided by{" "}
-              <span className="mil-accent">Rahal Tech</span>
+              <span className="mil-accent">Amb ventures</span>
             </h2>
           </div>
         </div>

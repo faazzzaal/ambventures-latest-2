@@ -13,8 +13,8 @@ const DefaultFooter = () => {
                 // style={{ width: 300, marginLeft: "-50px" }}
               />
               <p className="mil-light-soft mil-mb-30">
-                Elevate your enterprise with Rahal Tech – where innovation meets
-                excellence in IT solutions. Transforming challenges into
+                Elevate your enterprise with Amb ventures – where innovation
+                meets excellence in IT solutions. Transforming challenges into
                 opportunities for a digital future.
               </p>
             </div>
@@ -55,13 +55,13 @@ const DefaultFooter = () => {
           <ul className="mil-social mil-light">
             <li className="mil-adapt-links">
               <a
-                href="https://www.instagram.com/rahalvb?igsh=MWZxOGNtcGNha3Voaw=="
+                href="https://www.instagram.com/Amb venturesvb?igsh=MWZxOGNtcGNha3Voaw=="
                 target="_blank"
               >
                 Instagram
               </a>
               <a
-                href="https://www.instagram.com/rahalvb?igsh=MWZxOGNtcGNha3Voaw=="
+                href="https://www.instagram.com/Amb venturesvb?igsh=MWZxOGNtcGNha3Voaw=="
                 target="_blank"
               >
                 IG
@@ -69,13 +69,13 @@ const DefaultFooter = () => {
             </li>
             <li className="mil-adapt-links">
               <a
-                href="https://www.linkedin.com/company/rahaltech"
+                href="https://www.linkedin.com/company/Amb venturestech"
                 target="_blank"
               >
                 LinkedIn
               </a>
               <a
-                href="https://www.linkedin.com/company/rahaltech"
+                href="https://www.linkedin.com/company/Amb venturestech"
                 target="_blank"
               >
                 IN
@@ -98,7 +98,7 @@ const DefaultFooter = () => {
       <div className="mil-footer-bottom">
         <div className="container">
           <p className="mil-text-sm mil-light">
-            <span>&copy;</span>Rahal Tech 2023.
+            <span>&copy;</span>Amb ventures 2023.
           </p>
           <p className="mil-text-sm mil-light">All Rights Reserved.</p>
         </div>
